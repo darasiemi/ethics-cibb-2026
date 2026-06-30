@@ -82,7 +82,7 @@ cd cibb-2026
 
 ---
 
-### Updating Packages (Recommended)
+### Step 4: Updating Packages (Recommended)
 
 ```bash
 uv sync
@@ -95,8 +95,10 @@ source .venv/bin/activate
 uv sync
 ```
 
+If this works fine, skip to step 6.
 
-### Initialize a uv Project (If you want to install from from a fresh project)
+
+### Step 5: Initialize a uv Project (If you want to install from from a fresh project)
 
 Instead of manually creating files, you can initialize a project with
 
@@ -143,16 +145,12 @@ cibb-2026/
 
 ---
 
-### Running the code
+### Step 6: Running the code
 
 ```bash
 uv run ethics-paper.py
 ```
 ---
-
-
-
-You are now ready to build formal verification systems using the Z3 SMT solver in Python.
 
 
 
