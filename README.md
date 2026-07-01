@@ -25,7 +25,7 @@ support the development of AI systems with continuous and auditable ethical guar
 The figure below illustrates the proposed computational ethics framework for financial digital phenotyping, where an ethical oversight agent evaluates system actions against formally specified deontic temporal logic constraints before allowing data collection or use.
 
 <p align="center">
-  <img src="images/computational-ethics-schematic.png"
+  <img src="images/computational-ethics-schematic.jpeg"
        alt="Computational Ethics Framework for Financial Digital Phenotyping"
        width="900">
 </p>
