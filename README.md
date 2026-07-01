@@ -1,8 +1,8 @@
-## Code Repository for CIBB 2026 Paper
+# Code Repository for CIBB 2026 Paper
 
 Repositiory for the paper _A Computational Ethical Framework for Financial Digita Phenotyping for Mental Health_ for the _Computational Methods for Mental Health and Well-Being_ at the 21st _International Conference on Computational Intelligence methods for Bioinformatics and Biostatistics (CIBB 2026)_
 
-*Abstract* 
+## Abstract 
 Ethical governance of AI-driven systems is often expressed through high-level princi-
 ples and static documentation, creating a gap between regulatory requirements and system-level
 verification. This challenge is particularly acute in digital phenotyping, where continuous be-
@@ -20,7 +20,7 @@ tions, including the need for real-world verification with data, the challenge w
 and contextual sensitivity, the need for human oversight, and outline how such approaches can
 support the development of AI systems with continuous and auditable ethical guarantees
 
-## Computational Ethics Framework
+## The Framework
 
 The figure below illustrates the proposed computational ethics framework for financial digital phenotyping, where an ethical oversight agent evaluates system actions against formally specified deontic temporal logic constraints before allowing data collection or use.
 
